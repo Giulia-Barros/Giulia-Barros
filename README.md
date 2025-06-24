@@ -72,7 +72,7 @@ Estou pronta para fazer a diferença e dar o meu melhor em cada oportunidade.
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="125" 
+      height="110" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia-Barros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
