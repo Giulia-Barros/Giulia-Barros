@@ -3,18 +3,19 @@
 
 Sou uma profissional motivada, em formação no curso superior de Análise e Desenvolvimento de Sistemas. Com experiência profissional em atendimento e suporte ao cliente, minhas competências incluem resolução de problemas, análise de dados e desenvolvimento de soluções personalizadas para atender às necessidades dos clientes.
 
-Tenho habilidades em colaboração em equipe, comunicação eficaz, facilidade de aprendizagem e adaptação a ambientes dinâmicos. Além disso, possuo conhecimentos, Python, GitHub, Django, Raspagem de Dados, entre outros.
+Tenho habilidades em colaboração em equipe, comunicação eficaz, facilidade de aprendizagem e adaptação a ambientes dinâmicos. Além disso, possuo conhecimentos, Python, Git, Django, Raspagem de Dados, entre outros.
 
 Estou pronta para fazer a diferença e dar o meu melhor em cada oportunidade.
 
 <p align="center">
-    <a href="www.linkedin.com/in/giulia-barros-1b49b71b7">
+    <a href="https://www.linkedin.com/in/giulia-barros-1b49b71b7/">
         <img 
+            alt="Linkedin profile" 
+            title="Acesse meu perfil do Linkedin" 
             width="30px" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
-</p>
 
 ---
 
