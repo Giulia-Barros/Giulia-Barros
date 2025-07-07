@@ -60,28 +60,9 @@ Estou pronta para fazer a diferença e dar o meu melhor em cada oportunidade.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Giulia-Barros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-    
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="110" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia-Barros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![Giulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giulia-Barros&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br)
 
 
-
-
-
-
-
+![Giulia's GitHub technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulia-Barros&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 
